@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+{
+    "home": {
+      "listen": "Écoutez de la bonne musique!"
+    },
+    "manage": {
+      "my_songs": "Mes chansons"
+    }
+  }
+=======
+{
+    "home": {
+      "listen": "Écoutez de la bonne musique!"
+    },
+    "manage": {
+      "my_songs": "Mes chansons"
+    }
+  }
+>>>>>>> e8b6db1 (Music App)
+  
